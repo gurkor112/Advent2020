@@ -38,6 +38,6 @@ int main()
 	}
 	int c = count1* count12 * count3 * count5 * count7;
 
-	printf("%d\n%d\n%d\n%d\nn%d\nn%d\n", count1, count12, count3, count5, count7, c);
+	printf("%d\n%d\n%d\n%d\nn%d\nn%d\n", count1, count12, count3, count5, count7);
 
 }
