@@ -36,8 +36,6 @@ int main()
 		if (s[pos5] == '#') count5++;
 		pos5 = (pos5 + 5)%31;
 	}
-	int c = count1* count12 * count3 * count5 * count7;
-
 	printf("%d\n%d\n%d\n%d\nn%d\nn%d\n", count1, count12, count3, count5, count7);
 
 }
